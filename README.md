@@ -12,3 +12,6 @@ The browser sends an HTTP request to the webserver.
 broswer usually makes an API request for the same
 The server handles the request and sends back a HTTP response.
 The browser displays the HTML content (for HTML responses, which is the most common).
+
+
+need to add more points
